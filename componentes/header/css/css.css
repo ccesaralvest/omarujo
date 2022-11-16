@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    color: #fff;
+    text-decoration: none;
+
+}
+.headerprimario {
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    background-color: rgb(15, 15, 15);
+    list-style: none;
+    display: flex;
+    height: 4vh;
+}
+
+.headercomunicacao
+{
+    display: flex;
+    align-items: top;
+    margin: 10%;
+}
+
+.headersecundario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #401616;
+    list-style: none;
+    height: 13vh;    
+}
+
+.navheader
+{
+    padding: 10%;
+}
+
+.logodomarujo {
+
+    width: 9%;
+    margin-left: 10%
+}
+
+li a { transition: 0.3s;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    font-size: 22px;
+    text-decoration: none;
+    color: #F2DCB3;
+}
