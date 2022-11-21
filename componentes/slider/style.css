@@ -61,28 +61,3 @@ input {
     width: 20%;
     transition: .6s;
 }
-
-#slide1:checked ~ .s1 {
-    margin-left: 0;
-}
-
-#slide2:checked ~ .s1 {
-    margin-left: -20%;
-}
-
-
-#slide3:checked ~ .s1 {
-    margin-left: -40%;
-}
-
-
-#slide4:checked ~ .s1 {
-    margin-left: -60%;
-}
-
-
-#slide5:checked ~ .s1 {
-    margin-left: -80%;
-}
-
-
